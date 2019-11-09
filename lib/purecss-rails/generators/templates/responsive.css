@@ -1,9 +1,13 @@
 /*
-  =require purecss/base
-  =require purecss/buttons
-  =require purecss/forms
-  =require purecss/grids
-  =require purecss/grids-responsive
-  =require purecss/menus
-  =require purecss/tables
+=require purecss/base
+=require purecss/buttons
+=require purecss/forms
+=require purecss/forms-r
+=require purecss/grids-core
+=require purecss/menus-core
+=require purecss/menus-dropdown
+=require purecss/menus-horizontal
+=require purecss/menus-scrollable
+=require purecss/menus-skin
+=require purecss/tables
 */
